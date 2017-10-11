@@ -1,0 +1,20 @@
+INFO:root:Starting up..
+INFO:root:Starting up..
+WARNING:appJar:You didn't stop all containers
+WARNING:appJar:STOP: panedFrame
+WARNING:appJar:Invalid location: -334.5, -108.5 - ignoring
+INFO:root:Starting up..
+WARNING:appJar:You didn't stop all containers
+WARNING:appJar:STOP: panedFrame
+INFO:root:Starting up..
+WARNING:appJar:You didn't stop all containers
+WARNING:appJar:STOP: panedFrame
+INFO:root:Starting up..
+WARNING:appJar:You didn't stop all containers
+WARNING:appJar:STOP: panedFrame
+INFO:root:Starting up..
+WARNING:appJar:You didn't stop all containers
+WARNING:appJar:STOP: panedFrame
+INFO:root:Starting up..
+WARNING:appJar:You didn't stop all containers
+WARNING:appJar:STOP: panedFrame
